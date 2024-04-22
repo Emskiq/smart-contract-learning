@@ -1,12 +1,13 @@
-# Smart contract examples and learning process
+# Smart Contract Examples and Learning Process
 
-This repository will keep track of the example contracts (doesn't matter small, medium, large, complex, simple ones) that I have done during this step of my _Rust auditor path - learn SC development and basics of Rust auditing_.
+This repository will keep track of the example contracts, regardless of size or complexity, that I have completed during second step of _my Rust auditor path_ – learning smart contract development and the basics of Rust auditing.
 
-## Starting point
+## Starting Point
 
-Starting with [this playlist](https://www.youtube.com/playlist?list=PL7mnz6eNKsYlLiLfhDKtVjdSb59cBZPVL) of video tutorials, which will get you into using [Ink!](https://use.ink/) and [Substrate](https://docs.substrate.io/tutorials/smart-contracts). The contracts done in these tutorials are as follows:
+I began by following [this playlist](https://www.youtube.com/playlist?list=PL7mnz6eNKsYlLiLfhDKtVjdSb59cBZPVL) of video tutorials, which introduced me to using [Ink!](https://use.ink/) and [Substrate](https://docs.substrate.io/tutorials/smart-contracts). The contracts covered in these tutorials include:
+
 - [Simple Storage](SimpleStorage)
 - [Flipper](flipper)
 - [ERC-20](erc_20)
 
-They are simple ones, however will got you into the basics of Ink! and the actual interaction with contract through [`substrate-contracts-node`](https://github.com/paritytech/substrate-contracts-node)
+While these contracts are simple, they provide a solid foundation in understanding Ink! and the actual interaction with contracts through [`substrate-contracts-node`](https://github.com/paritytech/substrate-contracts-node).
