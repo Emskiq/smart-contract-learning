@@ -9,5 +9,6 @@ I began by following [this playlist](https://www.youtube.com/playlist?list=PL7mn
 - [Simple Storage](SimpleStorage)
 - [Flipper](flipper)
 - [ERC-20](erc_20)
+- [Incrementer](incrementer) - _skip it_
 
 While these contracts are simple, they provide a solid foundation in understanding Ink! and the actual interaction with contracts through [`substrate-contracts-node`](https://github.com/paritytech/substrate-contracts-node).
