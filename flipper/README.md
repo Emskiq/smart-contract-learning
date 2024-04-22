@@ -9,6 +9,6 @@ This contract is developed by following [the official tutorial](https://use.ink/
 ### Resources:
 
 - [The official step-by-step tutorial](https://use.ink/getting-started/setup)
-- [The actual video](https://www.youtube.com/watch?v=wvKlKXAUAV4&list=PL7mnz6eNKsYlLiLfhDKtVjdSb59cBZPVL&t=466s](https://www.youtube.com/watch?v=98CIYL7FeDQ&list=PL7mnz6eNKsYlLiLfhDKtVjdSb59cBZPVL&index=2&t=5s))
+- [The actual video](https://www.youtube.com/watch?v=98CIYL7FeDQ&list=PL7mnz6eNKsYlLiLfhDKtVjdSb59cBZPVL&index=2)
 - [Cargo Contract](https://use.ink/cargo-contract-cli/)
 - [Some other official example contracts](https://use.ink/examples/smart-contracts/)
