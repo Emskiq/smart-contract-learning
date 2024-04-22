@@ -1,4 +1,4 @@
-# Smart Contract Examples and Learning Process
+# Smart Contracts examples
 
 This repository will keep track of the example contracts, regardless of size or complexity, that I have completed during second step of _my Rust auditor path_ – learning smart contract development and the basics of Rust auditing.
 
