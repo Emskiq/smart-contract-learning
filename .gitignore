@@ -1,2 +1,4 @@
 # Ignore build artifacts from the local tests sub-crate.
-**/target/
+*/target
+**/target
+substrate-contracts-node
