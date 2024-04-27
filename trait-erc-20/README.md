@@ -1,4 +1,4 @@
-# ERC-20 implemented with Trait
+# ERC-20 implementation with trait
 
 Yet another smart contract written in [`ink!`](https://use.ink/how-it-works). This is an example that shows how to use traits (known as _interfaces_ in other languages like C++/Java) in `ink!`.
 <br>
