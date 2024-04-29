@@ -8,9 +8,13 @@ I began by following [this playlist](https://www.youtube.com/playlist?list=PL7mn
 
 - [Simple Storage](simple-storage)
 - [Flipper](flipper)
+- [Incrementer](incrementer)
 - [ERC-20](erc-20)
 - [ERC-20 with Traits](trait-erc-20)
 - [Cross contract calls](cross-contract-calls)
-- [Incrementer](incrementer) - _skip it_
+- [Upgradeable contract](upgradeable-contracts)
+  - [Proxy pattern](upgradeable-contracts/proxy)
+  - [Delegate pattern](upgradeable-contracts/delegate)
+  - [Set code hash](upgradeable-contracts/set-code-hash)
 
 While these contracts are simple, they provide a solid foundation in understanding Ink! and the actual interaction with contracts through [`substrate-contracts-node`](https://github.com/paritytech/substrate-contracts-node).
