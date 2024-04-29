@@ -4,9 +4,9 @@ This repository will keep track of the example contracts, regardless of size or 
 
 ## Starting Point
 
-I began by following [this playlist](https://www.youtube.com/playlist?list=PL7mnz6eNKsYlLiLfhDKtVjdSb59cBZPVL) of video tutorials, which introduced me to [Ink!](https://use.ink/) and [Substrate](https://docs.substrate.io/tutorials/smart-contracts). 
-
+I began by following [this playlist](https://www.youtube.com/playlist?list=PL7mnz6eNKsYlLiLfhDKtVjdSb59cBZPVL) of video tutorials, which introduced me to [`ink!`](https://use.ink/) and [Substrate](https://docs.substrate.io/tutorials/smart-contracts).
 The contracts covered in these tutorials include:
+
 - [Simple Storage](simple-storage)
 - [Flipper](flipper)
 - [Incrementer](incrementer)
