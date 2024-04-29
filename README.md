@@ -4,8 +4,9 @@ This repository will keep track of the example contracts, regardless of size or 
 
 ## Starting Point
 
-I began by following [this playlist](https://www.youtube.com/playlist?list=PL7mnz6eNKsYlLiLfhDKtVjdSb59cBZPVL) of video tutorials, which introduced me to using [Ink!](https://use.ink/) and [Substrate](https://docs.substrate.io/tutorials/smart-contracts). The contracts covered in these tutorials include:
+I began by following [this playlist](https://www.youtube.com/playlist?list=PL7mnz6eNKsYlLiLfhDKtVjdSb59cBZPVL) of video tutorials, which introduced me to [Ink!](https://use.ink/) and [Substrate](https://docs.substrate.io/tutorials/smart-contracts). 
 
+The contracts covered in these tutorials include:
 - [Simple Storage](simple-storage)
 - [Flipper](flipper)
 - [Incrementer](incrementer)
@@ -16,5 +17,6 @@ I began by following [this playlist](https://www.youtube.com/playlist?list=PL7mn
   - [Proxy pattern](upgradeable-contracts/proxy)
   - [Delegate pattern](upgradeable-contracts/delegate)
   - [Set code hash](upgradeable-contracts/set-code-hash)
+- [Custom environment](custom-environment)
 
 While these contracts are simple, they provide a solid foundation in understanding Ink! and the actual interaction with contracts through [`substrate-contracts-node`](https://github.com/paritytech/substrate-contracts-node).
