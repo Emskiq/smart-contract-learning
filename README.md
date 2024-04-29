@@ -12,7 +12,7 @@ I began by following [this playlist](https://www.youtube.com/playlist?list=PL7mn
 - [ERC-20](erc-20)
 - [ERC-20 with Traits](trait-erc-20)
 - [Cross contract calls](cross-contract-calls)
-- [Upgradeable contract](upgradeable-contracts)
+- [Upgradeable contracts](upgradeable-contracts)
   - [Proxy pattern](upgradeable-contracts/proxy)
   - [Delegate pattern](upgradeable-contracts/delegate)
   - [Set code hash](upgradeable-contracts/set-code-hash)
